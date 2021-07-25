@@ -8,6 +8,18 @@ Click [HERE](https://github.com/stackanna/Credit_Risk_Analysis/blob/523f28b19bff
 
 Using machine learning to understand credit card risk. Evaluating models using imbalanced-learn and scikit-learn libraries. 
 
+![alt text](https://github.com/stackanna/Credit_Risk_Analysis/blob/21384c4d6853009f1eb7b03dd4721c2a06befec8/Naive%20Random%20Oversampling.png)
+
+![alt text](https://github.com/stackanna/Credit_Risk_Analysis/blob/21384c4d6853009f1eb7b03dd4721c2a06befec8/SMOTE%20Oversampling.png)
+
+![alt text](https://github.com/stackanna/Credit_Risk_Analysis/blob/21384c4d6853009f1eb7b03dd4721c2a06befec8/SMOTE%20Oversampling.png)
+
+![alt text](https://github.com/stackanna/Credit_Risk_Analysis/blob/21384c4d6853009f1eb7b03dd4721c2a06befec8/Combination%20Over:Undersampling.png)
+
+![alt text](https://github.com/stackanna/Credit_Risk_Analysis/blob/21384c4d6853009f1eb7b03dd4721c2a06befec8/Balanced%20Random%20Forest%20Classifier.png)
+
+![alt text](https://github.com/stackanna/Credit_Risk_Analysis/blob/21384c4d6853009f1eb7b03dd4721c2a06befec8/Easy%20Ensemble%20AdaBoost%20Classifier.png)
+
 Deliverable 4 Instructions
 
 For this deliverable, you’ll write a brief summary and analysis of the performance of all the machine learning models used in this Challenge.
