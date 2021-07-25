@@ -1,4 +1,12 @@
-# Credit_Risk_Analysis
+# Credit Risk Analysis 
+
+Comparing two new machine learning modles that reduce bias, to predict credit risk by evaluating the performance of these models. 
+
+Click [HERE](https://github.com/stackanna/Credit_Risk_Analysis/blob/523f28b19bffd1a72c14a0153700b57812309ff4/Resources/credit_risk_ensemble.ipynb) to view [Credit Risk Analysis](https://github.com/stackanna/Credit_Risk_Analysis/blob/523f28b19bffd1a72c14a0153700b57812309ff4/Resources/credit_risk_ensemble.ipynb)
+
+# Resources
+
+Using machine learning to understand credit card risk. Evaluating models using imbalanced-learn and scikit-learn libraries. 
 
 Deliverable 4 Instructions
 
